@@ -7,5 +7,5 @@
  | | | (_) | | | | | | (_| | | | |_____>  < (_) |    ( o.o )         ├─ Terminal: Kitty
  |_|  \___/|_| |_| |_|\__,_|_| |_|    /_/\_\___/      > ^ <          ├─ Shell: zsh
                                                                      ├─ Font: Geist + Geist Mono
-                                                                     └─ Status: Studying 한국어
+                                                                     └─ Current Focus: Studying 한국어 + Network Administration
 ```
