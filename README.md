@@ -7,9 +7,6 @@
  |_|  \___/|_| |_| |_|\__,_|_| |_|    /_/\_\___/      > ^ <
                                                  
 
-</p>
-
-
 roman@github.com
 ├─ OS: Arch Linux
 ├─ WM: BSPWM
