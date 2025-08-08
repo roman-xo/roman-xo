@@ -1,7 +1,7 @@
 <p align="center">
 
 ```
-                                                                    roman@github.com   
+                                                                   <b>roman@github.com</b>   
   _ __ ___  _ __ ___   __ _ _ __      __  _____                    ├─ OS: Arch Linux 
  | '__/ _ \| '_ ` _ \ / _` | '_ \ ____\ \/ / _ \      /\_/\        ├─ WM: BSPWM
  | | | (_) | | | | | | (_| | | | |_____>  < (_) |    ( o.o )       ├─ Terminal: Kitty
