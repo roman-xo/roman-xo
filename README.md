@@ -9,10 +9,6 @@
 
 </p>
 
- /\_/\
-( o.o )
- > ^ <
-
 roman@github.com
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  OS        : Arch Linux
