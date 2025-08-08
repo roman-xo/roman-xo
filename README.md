@@ -11,13 +11,11 @@
 </p>
 
 ```
-roman@github.com
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🌐 OS        : Arch Linux
-🪟 WM        : BSPWM + pywal
-💻 Terminal  : kitty
-🐚 Shell     : zsh (autosuggestions ftw)
-🔤 Font      : JetBrainsMono Nerd Font
-🧘 Status    : minimal, colorful, rice'd
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+roman@github
+├─ OS: Arch Linux
+├─ WM: BSPWM
+├─ Terminal: Kitty
+├─ Shell: zsh
+├─ Font: Geist + Geist Mono
+└─ Status: Studying 
 ```
