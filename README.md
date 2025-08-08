@@ -11,7 +11,7 @@
 </p>
 
 ```
-roman@github
+roman@github.com
 ├─ OS: Arch Linux
 ├─ WM: BSPWM
 ├─ Terminal: Kitty
