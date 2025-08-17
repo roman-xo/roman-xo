@@ -16,6 +16,6 @@ current focus & study -
 <br>
 - network administration
 <br>
- - 🇰🇷 korean (한국어)
+ - 🇰🇷 korean 한국어
  <br>
 </samp>
