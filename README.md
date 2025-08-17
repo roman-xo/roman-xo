@@ -12,7 +12,7 @@ current goals -
 - growing in web development
 <br>
 <br>
-current focus & study -
+current focus & studies -
 <br>
 - network administration
 <br>
