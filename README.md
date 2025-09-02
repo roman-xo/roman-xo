@@ -15,6 +15,7 @@ current goals -
 current focus & studies -
 <br>
 - network administration
+- linux server administration
 <br>
  - korean 한국어
  <br>
