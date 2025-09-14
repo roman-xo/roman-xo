@@ -16,7 +16,7 @@ current focus & studies -
 <br>
 - network administration
 <br>
-- linux server administration
+- RHCSA
 <br>
  - korean 한국어
  <br>
