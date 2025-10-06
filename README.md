@@ -16,7 +16,7 @@ current focus & studies -
 <br>
 - network administration
 <br>
-- RHCSA certification
+- RHCSA certification exam
 <br>
  - korean 한국어
  <br>
