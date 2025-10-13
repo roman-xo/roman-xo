@@ -18,6 +18,4 @@ current focus & studies -
 <br>
 - RHCSA exam
 <br>
- - korean 한국어
- <br>
 </samp>
