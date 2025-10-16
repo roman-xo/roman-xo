@@ -12,7 +12,7 @@ current goals -
 <br>
 current focus & studies -
 <br>
-- network administration
+- network engineering
 <br>
 - RHCSA exam
 <br>
