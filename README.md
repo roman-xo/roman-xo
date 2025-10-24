@@ -5,7 +5,6 @@
  |_|  \___/|_| |_| |_|\__,_|_| |_|    /_/\_\___/     
  ```
  <samp>
-<br>
 current focus & studies -
 <br>
 - network engineering
