@@ -4,8 +4,10 @@
  | | | (_) | | | | | | (_| | | | |_____>  < (_) |
  |_|  \___/|_| |_| |_|\__,_|_| |_|    /_/\_\___/     
  ```
+<br>
+<samp>
 IT guy & hobbyist
- <samp>
+
 current focus & studies -
 <br>
 - network engineering
