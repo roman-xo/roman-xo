@@ -6,7 +6,6 @@
  ```
 
 <samp>
-IT guy
 <br>
 current focus & studies -
 <br>
