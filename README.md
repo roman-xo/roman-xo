@@ -6,7 +6,6 @@
  ```
 
 <samp>
-<br>
 current focus & studies -
 <br>
 - network engineering
